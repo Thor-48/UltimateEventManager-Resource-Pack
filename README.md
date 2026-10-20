@@ -8,13 +8,14 @@ third-party movie-derived textures or models.
 
 Run `gradle resourcePackZip` in the plugin project. The archive is written to
 `build/distributions/ultimate-event-manager-resource-pack.zip` and has `pack.mcmeta` at
-the ZIP root. Upload that ZIP to a public HTTPS location that supports direct downloads.
-For GitHub, use a direct raw-file or release download URL, not the repository HTML page.
+the ZIP root. The published archive is available from the
+[public resource-pack repository](https://github.com/Thor-48/UltimateEventManager-Resource-Pack).
+Use its direct raw-file or release download URL, not the repository HTML page.
 
 Copy the archive's SHA-1 hash into `resource-pack.sha1` in the plugin configuration. Set
 the matching `resource-pack.local-url` or `resource-pack.remote-url` to the direct URL.
-The sample configuration intentionally has empty URLs: `localhost` and placeholder
-domains are not reachable by players and cause the download to fail.
+The plugin configuration defaults to the published HTTPS ZIP, but resource-pack delivery
+is opt-in and must be enabled in the configuration or admin menu.
 
 ## Adding a model you are allowed to use
 
