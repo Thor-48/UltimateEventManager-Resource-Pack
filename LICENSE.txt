@@ -1,0 +1,15 @@
+Copyright (c) 2026 Luca The Fox. All rights reserved.
+
+This license applies only to original files in this resource-pack directory that are
+created by Luca The Fox. It does not apply to Minecraft assets, Mojang/Microsoft assets,
+third-party assets, or files whose ownership belongs to someone else.
+
+Permission is granted to use, modify, and distribute those original files only as part
+of Minecraft plugins or projects created and maintained by Luca The Fox. No other person
+or organization is granted permission to reuse, redistribute, sublicense, or publish
+those original files outside such projects without prior written permission from
+Luca The Fox.
+
+THE ORIGINAL FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NONINFRINGEMENT.
